@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Louis and this is my official GitHub account:
+
+- 🔭 I’m currently working on keeping a 100-day streak on #LeetCode
+- 🌱 I’m currently learning Data Science.
+- 💬 Ask me about anything...
+- 📫 How to reach me: louischarles.2000@gmail.com
 <!--
 **louischarles2000/louischarles2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
